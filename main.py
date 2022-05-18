@@ -30,7 +30,7 @@ if not os.path.exists('data.csv'):
 # BybossTR gereksimler  
 APP_ID =  7816374
 API_HASH = "9fe113eb566e7941b5823db5f6e44fcc"
-BOT_TOKEN = "5333940223:AAHprslktTL5DNR1XKV4pI5NS21R-LGPFrk"
+BOT_TOKEN = "5386605685:AAHoQNYonczcvqfqQjYmqnO3TZ8uE_pUMOE"
 UPDATES_CHANNEL = "guncelponzi"
 OWNER = [5169277541]
 PREMIUM = [5169277541]
