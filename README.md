@@ -5,7 +5,7 @@
 
 #### Kolay Botu Kur 🤫
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bybosstr/BossAdder)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheMehwett/muzvar)
 
 ##### Botu kurdun yapamazsan @Kingtheworlds
 
